@@ -47,7 +47,7 @@ export default function PressPage() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Case Types</h3>
-                  <p className="text-gray-700">Securities Fraud, Investment Fraud, Breach of Contract</p>
+                  <p className="text-gray-700">Securities Fraud, Investment Fraud, Arbitration Enforcement</p>
                 </div>
                 
                 <div>
@@ -90,9 +90,9 @@ export default function PressPage() {
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">FNRP Counterclaim Allegations</h3>
                 <div className="space-y-4">
                   <div className="border-l-4 border-blue-500 pl-4">
-                    <h4 className="font-semibold text-gray-900 mb-2">Breach of Contract</h4>
+                    <h4 className="font-semibold text-gray-900 mb-2">Arbitration Clause Enforcement</h4>
                     <p className="text-gray-700">
-                      Investors allegedly violated their investment agreements and contractual obligations.
+                      FNRP seeks to enforce arbitration clauses in investment agreements to compel arbitration instead of court litigation.
                     </p>
                   </div>
                   <div className="border-l-4 border-blue-500 pl-4">

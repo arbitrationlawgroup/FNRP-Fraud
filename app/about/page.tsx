@@ -42,9 +42,9 @@ export default function AboutPage() {
             </p>
 
             <p>
-              <strong>FNRP Counterclaim:</strong> In response to the investor allegations, First National Realty Partners 
-              has filed a counterclaim against investors, alleging breach of contract and seeking declaratory judgment. 
-              This counterclaim disputes the fraud allegations and claims the investors violated their investment agreements.
+            <strong>FNRP Counterclaim:</strong> In response to the investor allegations, First National Realty Partners
+            has filed a counterclaim against investors, seeking to enforce their arbitration clause and compel arbitration.
+            This counterclaim disputes the fraud allegations and seeks to move the dispute to arbitration as required by their investment agreements.
             </p>
 
             <p>

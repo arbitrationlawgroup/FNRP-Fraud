@@ -47,7 +47,7 @@ const timelineData = [
   {
     date: '2025-01-15',
     title: 'FNRP Files Counterclaim',
-    description: 'First National Realty Partners files counterclaim against investors, alleging breach of contract and seeking declaratory judgment.',
+        description: 'First National Realty Partners files counterclaim against investors, seeking to enforce their arbitration clause and compel arbitration.',
     type: 'filing' as const,
     relatedFiling: 'counterclaim-2025-01-15',
   },

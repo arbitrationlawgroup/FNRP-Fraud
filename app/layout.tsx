@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'First National Realty Partners (FNRP) Fraud Lawsuits – Court Filings & Timeline',
   description: 'Read official filings, exhibits, and independent updates on the ongoing federal fraud lawsuits against First National Realty Partners (FNRP).',
-  keywords: 'First National Realty Partners, FNRP, lawsuit, fraud, misrepresentation, federal court, investors, counterclaim, breach of contract',
+  keywords: 'First National Realty Partners, FNRP, lawsuit, fraud, misrepresentation, federal court, investors, counterclaim, arbitration enforcement',
   authors: [{ name: 'FNRP Fraud Lawsuit' }],
   creator: 'FNRP Fraud Lawsuit',
   publisher: 'FNRP Fraud Lawsuit',
