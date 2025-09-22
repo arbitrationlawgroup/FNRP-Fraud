@@ -17,6 +17,14 @@ export default async function HomePage() {
   // Press release data
   const pressReleases = [
     {
+      title: "Red Bank real estate investment firm accused in lawsuit of shortchanging investors of $12M",
+      date: "February 21, 2025",
+      source: "Asbury Park Press",
+      url: "https://www.app.com/story/money/business/2025/02/21/first-national-realty-partners-red-bank-real-estate-lawsuit/79182886007/",
+      excerpt: "First National Realty Partners, a Red Bank real estate investment firm, offered customers the chance to buy shares in shopping centers and receive annual returns of up to 9%, but instead skimmed more than half of the money for itself, according to a lawsuit filed in federal court. The lawsuit seeks to recover $12 million from investors.",
+      readTime: "2 min read"
+    },
+    {
       title: "Two Investor Groups File Federal Lawsuits Against First National Realty Partners Alleging Fraud and Misrepresentation",
       date: "August 14, 2025",
       source: "Yahoo Finance",
