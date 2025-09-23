@@ -116,7 +116,7 @@ npm run build
 npm run generate:sitemap
 ```
 
-The built files will be in the `out` directory.
+The built files will be in the `.next` directory.
 
 ## Environment Variables
 
