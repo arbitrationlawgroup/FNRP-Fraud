@@ -34,28 +34,8 @@ export default function ContactPage() {
                   <Mail className="h-6 w-6 text-primary mr-4 mt-1" />
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">info@arbitrationlawgroup.com</p>
+                    <p className="text-gray-600">fnrpfraud@gmail.com</p>
                     <p className="text-sm text-gray-500">General inquiries and information</p>
-                  </div>
-                </div>
-
-                <div className="flex items-start">
-                  <Phone className="h-6 w-6 text-primary mr-4 mt-1" />
-                  <div>
-                    <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                    <p className="text-gray-600">(202) 444 - 4222</p>
-                    <p className="text-sm text-gray-500">Monday - Friday, 9 AM - 5 PM EST</p>
-                  </div>
-                </div>
-
-                <div className="flex items-start">
-                  <MapPin className="h-6 w-6 text-primary mr-4 mt-1" />
-                  <div>
-                    <h3 className="font-semibold text-gray-900 mb-1">Location</h3>
-                    <p className="text-gray-600">1200 G St. NW</p>
-                    <p className="text-gray-600">Suite 800</p>
-                    <p className="text-gray-600">Washington D.C., 20005</p>
-                    <p className="text-sm text-gray-500">Serving affected investors nationwide</p>
                   </div>
                 </div>
               </div>
@@ -63,8 +43,7 @@ export default function ContactPage() {
               <div className="mt-8 p-6 bg-gray-50 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">Response Time</h3>
                 <p className="text-sm text-gray-600">
-                  We typically respond to inquiries within 24-48 hours during business days. 
-                  For urgent matters, please call our phone number.
+                  We typically respond to inquiries within 24-48 hours during business days.
                 </p>
               </div>
             </div>

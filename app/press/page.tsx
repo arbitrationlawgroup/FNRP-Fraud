@@ -148,17 +148,13 @@ export default function PressPage() {
                   <h3 className="font-semibold text-gray-900 mb-2">Press Inquiries</h3>
                   <div className="flex items-center mb-2">
                     <Mail className="h-4 w-4 text-gray-500 mr-2" />
-                    <span className="text-gray-700">info@arbitrationlawgroup.com</span>
-                  </div>
-                  <div className="flex items-center">
-                    <Phone className="h-4 w-4 text-gray-500 mr-2" />
-                    <span className="text-gray-700">(202) 444-4222</span>
+                    <span className="text-gray-700">fnrpfraud@gmail.com</span>
                   </div>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">Response Time</h3>
                   <p className="text-gray-700">
-                    We typically respond to media inquiries within 24 hours during business days.
+                    We typically respond to media inquiries within 24-48 hours during business days.
                   </p>
                 </div>
               </div>
